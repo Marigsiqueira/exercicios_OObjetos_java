@@ -1,4 +1,4 @@
-public class Banco2 {
+public class Conta {
     private String nome;
     private String sexo;
     private String idade;
@@ -8,14 +8,6 @@ public class Banco2 {
 
     public static void main (String args[]){
 
-        //Banco2 correntista = new Banco2();
-
-        //correntista.nome = "Mariana";
-        //correntista.sexo= "Feminino";
-        //correntista.idade= "19";
-        //correntista.contaConjunta="Não";
-        //correntista.numeroConta= "333";
-        //correntista.saldo= 10000;
 
     }
 
