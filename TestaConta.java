@@ -2,9 +2,9 @@ public class TestaConta {
 
     public static void main (String args[]){
 
-        Banco2 conta1 = new Banco2();
-        Banco2 conta2 = new Banco2();
-        Banco2 conta3 = new Banco2();
+        Conta conta1 = new Conta();
+        Conta conta2 = new Conta();
+        Conta conta3 = new Conta();
 
         conta1.setNome("Fernando");
         conta1.setNumeroConta("1234");
